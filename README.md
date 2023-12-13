@@ -1,0 +1,2 @@
+# Go-Log
+Log kayıt
